@@ -8,9 +8,7 @@ Xiaozheng Gao（高晓铮）, working at Beijing Institute of Technology China.
 
 
 
-![photo](/gaoxiaozheng_photo.jpg)
-
-Xiaozheng Gao
+![photo](/gaoxiaozheng_photo.jpg) Xiaozheng Gao <br/>a<br/>
 
 
 
