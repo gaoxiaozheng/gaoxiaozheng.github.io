@@ -5,7 +5,10 @@
 <table class="imgtable"><tr><td>
 <img src="/gaoxiaozheng_photo.jpg" width="100px"/>&nbsp;&nbsp;</td>
 <td align="left">
-<p>高晓铮，博士 <br/>
+<p>Xiaozheng Gao, Ph.D. <br/>
+ School of Cyberspace Science and Technology <br/>
+ Beijing Institute of Technology, China <br/>
+ 高晓铮，博士 <br/>
  北京理工大学网络空间安全学院 <br/>
  E-mail: gaoxiaozheng at bit dot edu dot cn
 </p>
