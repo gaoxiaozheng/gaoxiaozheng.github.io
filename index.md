@@ -5,18 +5,16 @@
 <table class="imgtable"><tr><td>
 <img src="/gaoxiaozheng_photo.jpg" width="100px"/>&nbsp;&nbsp;</td>
 <td align="left">
-<p>Xiaozheng Gao, Ph.D. <br/>
- School of Cyberspace Science and Technology <br/>
- Beijing Institute of Technology, China <br/>
- 高晓铮，博士 <br/>
- 北京理工大学网络空间安全学院 <br/>
+<p>高晓铮，博士 <br/>
+北京理工大学网络空间安全学院 <br/>
  E-mail: gaoxiaozheng at bit dot edu dot cn
 </p>
 </td>
 </tr></table>
 
  
-# Education
+# 个人简介
+高晓铮，2014年在北京理工大学获得工学学士学位，2020年在北京理工大学获得工学博士学位。2020年至今在北京理工大学任特立博士后。
 ## Education
 
  You can use the [editor on GitHub](https://github.com/gaoxiaozheng/aaa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
