@@ -6,7 +6,10 @@ Xiaozheng Gao（高晓铮）, working at Beijing Institute of Technology China.
 
 # 一级标题
 
-aaa
+
+
+![photo]{/assets/images/gaoxiaozheng_photo.jpg}
+
 
 ## 二级标题
 
