@@ -6,7 +6,7 @@
 <img src="/gaoxiaozheng_photo.jpg" width="100px"/>&nbsp;&nbsp;</td>
 <td align="left">
 <p>高晓铮，博士 <br/>
-北京理工大学 <br/>
+<br/>
  E-mail: gaoxiaozheng at bit dot edu dot cn
 </p>
 </td>
