@@ -14,7 +14,7 @@
 
  
 ## 个人简介
-高晓铮，1992年出生，博士。本科至博士阶段均在北京理工大学学习（2010-2020），攻读博士期间公派赴新加坡南洋理工大学联合培养2年（2017-2019），现任北京理工大学特立博士后。入选<strong>中国科协青年人才托举工程</strong>、<strong>北京市科技新星计划</strong>，获得<strong>中国电子教育学会优秀博士学位论文奖</strong>、<strong>IEEE Globecom最佳论文奖</strong>。曾获<strong>徐特立奖学金（北京理工大学最高荣誉奖学金）</strong>、<strong>“青春北理”科研创新榜样</strong>、<strong>国家奖学金</strong>、<strong>北京理工大学优秀博士学位论文育苗基金</strong>、<strong>北京市优秀毕业生</strong>等奖励和荣誉。担任IET Communications、 Physical Communication等国际SCI期刊编委。研究方向主要包括绿色通信、反向散射通信、以及凸优化和博弈论在无线通信网络中的应用。
+高晓铮，1992年出生，博士。本科至博士阶段均在北京理工大学学习（2010-2020），攻读博士期间公派赴新加坡南洋理工大学联合培养2年（2017-2019），现任北京理工大学特立博士后。入选<strong>中国科协青年人才托举工程</strong>、<strong>北京市科技新星计划</strong>，获得<strong>中国电子教育学会优秀博士学位论文奖</strong>、<strong>IEEE Globecom最佳论文奖</strong>。曾获<strong>徐特立奖学金（北京理工大学最高荣誉奖学金）</strong>、<strong>“青春北理”科研创新榜样</strong>、<strong>国家奖学金</strong>、<strong>北京理工大学优秀博士学位论文育苗基金</strong>、<strong>北京市优秀毕业生</strong>等奖励和荣誉。担任IET Communications、 Physical Communication等国际SCI期刊编委。研究方向主要包括通信网络性能评估、无线传输策略设计、空天地一体化网络。
 
 ## To be updated. 未完待续。
 
